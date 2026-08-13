@@ -22,3 +22,9 @@ python binary\_search.py
 
 \-1
 
+
+
+
+
+🔗 Gist: https://gist.github.com/inigar23/60aa2c1d3a7ac28618ed564730910ea1
+
